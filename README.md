@@ -13,4 +13,4 @@ special functions:
 Hosted links: 
 https://velvetcasino.vercel.app/
 https://ubiquitous-strudel-dbac07.netlify.app/
-https://tuxembourg.github.io
+https://tuxembourg.github.io/velvetcasino
